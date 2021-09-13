@@ -1,0 +1,13 @@
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.csprojAssemblyReference.cache
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.AssemblyInfoInputs.cache
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.AssemblyInfo.cs
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.exe
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.deps.json
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.runtimeconfig.json
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.runtimeconfig.dev.json
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.dll
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\bin\Debug\netcoreapp3.1\MetotChallenge.pdb
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.dll
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.pdb
+C:\Users\Kaplan's Family\source\repos\MetotChallenge\MetotChallenge\obj\Debug\netcoreapp3.1\MetotChallenge.genruntimeconfig.cache
